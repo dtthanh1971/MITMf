@@ -1,9 +1,4 @@
-![Supported Python versions](https://img.shields.io/badge/python-2.7-blue.svg)
-![Latest Version](https://img.shields.io/badge/mitmf-0.9.8%20--%20The%20Dark%20Side-red.svg)
-![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
-[![Code Climate](https://codeclimate.com/github/byt3bl33d3r/MITMf/badges/gpa.svg)](https://codeclimate.com/github/byt3bl33d3r/MITMf)
-[![Build Status](https://travis-ci.org/byt3bl33d3r/MITMf.svg)](https://travis-ci.org/byt3bl33d3r/MITMf)
-[![Coverage Status](https://coveralls.io/repos/byt3bl33d3r/MITMf/badge.svg?branch=master&service=github)](https://coveralls.io/github/byt3bl33d3r/MITMf?branch=master)
+This is just a mirror of the original MITMF code by  byt3bl33d3r
 
 # MITMf
 
